@@ -1,4 +1,4 @@
-# Week2-Python-Assigment
+# Week2-Python-Assignment
 # Create an empty list
 my_list = []
 
